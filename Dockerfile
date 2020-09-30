@@ -5,5 +5,4 @@ LABEL maintainer="chief@sittingbool.tech"
 RUN apk add --no-cache \
         autoconf \
         automake \
-        nasm \
-        xvfb
+        nasm
